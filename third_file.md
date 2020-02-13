@@ -1,1 +1,2 @@
-These are the contents of my third file
+These are the contents of my third file.
+This file has been edited.
